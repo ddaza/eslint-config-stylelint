@@ -1,12 +1,6 @@
 "use strict";
 
 module.exports = {
-  "extends": [
-    "eslint:recommended",
-    "plugin:node/recommended",
-    "plugin:jest/recommended",
-    "plugin:jest/style",
-  ],
   "parserOptions": {
     "ecmaVersion": 6
   },
